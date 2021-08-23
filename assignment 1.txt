@@ -1,0 +1,24 @@
+ASSIGNMENT 1
+ 
+NAME: SWATHI H AIRANI
+MAIL-ID: swathihairani5102000@gmail.com
+
+1)How is WordPress lisenced?
+    WordPress is not copyright free. It is licensed in a way that allows everyone to use it, but each contribution made to the software is copyrighted. It is released under GPL, so you are free to use, modify, and redistribute the code.
+
+2)How can you add image to your blog?
+    Place the cursor where you want the image to appear
+    Click Add media
+    Place the cursor where you want the image to appear
+    Enter a title text with keywords
+    Choose the size, alignment and link settings
+    Click Insert
+	
+3)Your blogs time zone can be set via which dashboard section?	
+    settings->general
+	
+4)What is the default role for the user created during the Wordpress process?
+    By default, a subscriber doesn't have access to the WordPress dashboard. However, you still have to determine the user role you want to assign to the person filling the form. To do this, go to Form Settings. The Default User Role is Subscriber	
+	
+5)Wordpress is written in which language?
+    PHP	
